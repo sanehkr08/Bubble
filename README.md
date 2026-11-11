@@ -7,6 +7,14 @@ Impromptu speaking practice in one page.
 3. **Speak**: a big countdown (1, 2 or 3 minutes) with a voice animation while the microphone listens.
 4. **Review**: words per minute, filler words, word variety, and Claude's feedback on vocabulary, filler words, structure and flow of ideas.
 
+## Screenshots
+
+| Topic | Prepare |
+|---|---|
+| ![Topic screen with a random topic, categories and speaking time](screenshots/1-topic.png) | ![Prepare screen with a 1-minute countdown and the suggested idea flow](screenshots/2-prepare.png) |
+| **Speak** | **Review** |
+| ![Speak screen with a big countdown and the voice animation](screenshots/3-speak.png) | ![Review screen with words, pace, filler words and word variety](screenshots/4-review.png) |
+
 ## Running it
 
 Everything is in `index.html`.
