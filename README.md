@@ -5,6 +5,8 @@ Impromptu speaking practice in one page.
 1. **Topic**: pick a category and get a random topic (105 topics across 7 categories).
 2. **Prepare**: 60 seconds with a suggested idea flow (hook → stand → point one → point two → close).
 3. **Speak**: a big countdown (1, 2 or 3 minutes) with a voice animation while the microphone listens.
+
+Both timers tick softly in the last 10 seconds and play a marimba alarm that repeats until you press **Stop sound** (or Esc). A **Sound on/off** button by each timer mutes it.
 4. **Review**: words per minute, filler words, word variety, and Claude's feedback on vocabulary, filler words, structure and flow of ideas.
 
 ## Screenshots
